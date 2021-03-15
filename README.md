@@ -3,7 +3,7 @@
 
 
 
-# fast-api covice-19
+# fast-api covid-19
 
 Package Install 
 - pip install uvicorn[standard]
