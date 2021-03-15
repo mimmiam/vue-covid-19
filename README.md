@@ -14,4 +14,4 @@ Run Server
 - uvicorn main:app --reload --host 0.0.0.0 --port 8000 --workers 4
 
 ScreenShot
-(https://raw.githubusercontent.com/ITCSsDeveloper/vue-covid-19/main/screenshot/api.jpg)
+![ScreenShot](https://raw.githubusercontent.com/ITCSsDeveloper/vue-covid-19/main/screenshot/api.jpg)
