@@ -72,7 +72,7 @@ export default {
   methods: {
     async getData () {
       try {
-        await this.axios.get('http://10.99.150.187:8000/api/v1/covid').then(res => {
+        await this.axios.get('http://0.0.0.0:8000/api/v1/covid').then(res => {
           this.data = res.data
           this.DiedSatatistics = res.data.DiedSatatistics
           this.PatientStatistics = res.data.PatientStatistics
