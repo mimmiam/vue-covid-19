@@ -12,3 +12,6 @@ Package Install
 Run Server
 - cd api
 - uvicorn main:app --reload --host 0.0.0.0 --port 8000 --workers 4
+
+ScreenShot
+(https://raw.githubusercontent.com/ITCSsDeveloper/vue-covid-19/main/screenshot/api.jpg)
