@@ -1,5 +1,10 @@
 # vue-covid-19
-- 
+Run Server
+- npm install
+- npm run serve
+
+ScreenShot
+![ScreenShot](https://raw.githubusercontent.com/ITCSsDeveloper/vue-covid-19/main/screenshot/web.jpg)
 
 
 
