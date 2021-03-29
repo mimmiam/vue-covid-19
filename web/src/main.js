@@ -8,6 +8,7 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 
 Vue.config.productionTip = false
+axios.defaults.baseURL = process.env.VUE_APP_HOST
 
 Vue.use(VueAxios, axios)
 new Vue({
